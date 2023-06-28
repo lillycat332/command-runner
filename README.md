@@ -1,4 +1,4 @@
-# Quilt Template Mod
+# Command Runner
 
 The official Quilt template mod. You can use it as a template for your own mods!
 
@@ -24,6 +24,6 @@ In order to use this mod as a template:
 
 ## License
 
-This template on the QuiltMC GitHub is licensed under the [Creative Common Zero v1.0 license](./LICENSE-TEMPLATE.md).
+This template on the QuiltMC GitHub is licensed under the [Creative Common Zero v1.0 license](./LICENSE).
 
 Mods created with this template are not automatically licensed under the CC0, and are not required to give any kind of credit back to QuiltMC for this template.
